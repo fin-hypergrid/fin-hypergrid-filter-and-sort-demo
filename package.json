@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/fin-hypergrid/fin-hypergrid-filter-and-sort-demo#readme",
   "dependencies": {
-    "fin-hypergrid": "file:../fin-hypergrid",
-    "fin-hypergrid-filtering-plugin": "git://github.com/fin-hypergrid/fin-hypergrid-filtering-plugin#v1.0.0",
+    "fin-hypergrid": "3.0.0 - *",
+    "fin-hypergrid-filtering-plugin": "git://github.com/fin-hypergrid/fin-hypergrid-filtering-plugin#1.0.0",
     "fin-hypergrid-sorting-plugin": "git://github.com/fin-hypergrid/fin-hypergrid-sorting-plugin#1.0.0",
     "datasaur-filter": "^1.0.1",
     "datasaur-sorter": "^1.0.1"
